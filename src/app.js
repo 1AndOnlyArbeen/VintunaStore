@@ -25,7 +25,7 @@ app.use(
 );
 
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to the BudiAmaKoPasal API" });
+  res.json({ message: "Welcome to the VintunaStore" });
 });
 
 export default app;
